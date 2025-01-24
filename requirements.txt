@@ -1,0 +1,6 @@
+pandas
+joblib
+folium
+streamlit-folium
+geopy
+xgboost
